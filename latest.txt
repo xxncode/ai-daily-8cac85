@@ -1,3 +1,3 @@
-📰 今日 AI 日报 · 7/11（周六）
-头条：史上首次，三大实验室同日发布前沿模型——OpenAI GPT-5.6 全量、xAI Grok 4.5、Anthropic Claude Cowork 上手机。出海重点：中国 AI 眼镜 Rokid 进日本 75 家门店（BicCamera/Yodobashi/EDION）。
-https://xxncode.github.io/ai-daily-8cac85/2026-07-11.html
+📰 今日 AI 日报 · 7/12（周日）· 本期起新增「知识」段
+头条：特斯拉拆 Model S 产线改造 Optimus 机器人工厂（7月底试产、设计年产能100万台），Agility 25亿美元冲刺上市——人形机器人集体走向量产线和资本市场。
+https://xxncode.github.io/ai-daily-8cac85/2026-07-12.html
